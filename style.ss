@@ -1,4 +1,0 @@
-.gorrilla{
-
-    width
-}
